@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React & MERN Stack & Auth
+          Zocially Coming Soon
         </a>
       </header>
     </div>
